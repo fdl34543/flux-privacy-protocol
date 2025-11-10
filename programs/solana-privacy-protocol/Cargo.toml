@@ -27,9 +27,10 @@ custom-panic = []
 anchor-lang = { version = "0.32.1", features = ["init-if-needed"] }
 anchor-spl = { version = "0.32.1", features = ["token", "metadata"] }
 
-light-sdk = { git = "https://github.com/Lightprotocol/light-protocol", branch = "main", path = "sdk-libs/sdk", features = ["merkle-tree"] }
-light-sdk-types = { git = "https://github.com/Lightprotocol/light-protocol", branch = "main", path = "sdk-libs/sdk-types" }
-light-sdk-pinocchio = { git = "https://github.com/Lightprotocol/light-protocol", branch = "main", path = "sdk-libs/sdk-pinocchio" }
+light-sdk = { git = "https://github.com/Lightprotocol/light-protocol", branch = "main", features = ["merkle-tree"] }
+light-sdk-types = { git = "https://github.com/Lightprotocol/light-protocol", branch = "main", package = "light-sdk-types" }
+light-sdk-pinocchio = { git = "https://github.com/Lightprotocol/light-protocol", branch = "main", package = "light-sdk-pinocchio" }
+
 
 [lints.rust]
 unexpected_cfgs = { level = "warn", check-cfg = ['cfg(target_os, values("solana"))'] }
