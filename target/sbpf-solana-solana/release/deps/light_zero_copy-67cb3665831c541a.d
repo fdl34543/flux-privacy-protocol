@@ -1,0 +1,18 @@
+/home/fadhil/solana-privacy-protocol/target/sbpf-solana-solana/release/deps/liblight_zero_copy-67cb3665831c541a.rmeta: /home/fadhil/light-protocol/program-libs/zero-copy/src/lib.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/cyclic_vec.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/errors.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/num_trait.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/slice.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/slice_mut.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/vec.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/mod.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/vec_u8.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/zero_copy_at.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/zero_copy_at_mut.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/zero_copy_new.rs
+
+/home/fadhil/solana-privacy-protocol/target/sbpf-solana-solana/release/deps/liblight_zero_copy-67cb3665831c541a.rlib: /home/fadhil/light-protocol/program-libs/zero-copy/src/lib.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/cyclic_vec.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/errors.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/num_trait.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/slice.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/slice_mut.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/vec.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/mod.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/vec_u8.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/zero_copy_at.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/zero_copy_at_mut.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/zero_copy_new.rs
+
+/home/fadhil/solana-privacy-protocol/target/sbpf-solana-solana/release/deps/light_zero_copy-67cb3665831c541a.d: /home/fadhil/light-protocol/program-libs/zero-copy/src/lib.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/cyclic_vec.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/errors.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/num_trait.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/slice.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/slice_mut.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/vec.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/mod.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/vec_u8.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/zero_copy_at.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/zero_copy_at_mut.rs /home/fadhil/light-protocol/program-libs/zero-copy/src/traits/zero_copy_new.rs
+
+/home/fadhil/light-protocol/program-libs/zero-copy/src/lib.rs:
+/home/fadhil/light-protocol/program-libs/zero-copy/src/cyclic_vec.rs:
+/home/fadhil/light-protocol/program-libs/zero-copy/src/errors.rs:
+/home/fadhil/light-protocol/program-libs/zero-copy/src/num_trait.rs:
+/home/fadhil/light-protocol/program-libs/zero-copy/src/slice.rs:
+/home/fadhil/light-protocol/program-libs/zero-copy/src/slice_mut.rs:
+/home/fadhil/light-protocol/program-libs/zero-copy/src/vec.rs:
+/home/fadhil/light-protocol/program-libs/zero-copy/src/traits/mod.rs:
+/home/fadhil/light-protocol/program-libs/zero-copy/src/traits/vec_u8.rs:
+/home/fadhil/light-protocol/program-libs/zero-copy/src/traits/zero_copy_at.rs:
+/home/fadhil/light-protocol/program-libs/zero-copy/src/traits/zero_copy_at_mut.rs:
+/home/fadhil/light-protocol/program-libs/zero-copy/src/traits/zero_copy_new.rs:
